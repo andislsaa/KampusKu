@@ -30,3 +30,29 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+# Environment dan file rahasia
+.env
+.env.*
+!.env.example
+
+# Android / Gradle
+android/.gradle/
+android/local.properties
+android/**/build/
+android/.idea/
+android/.cxx/
+android/captures/
+
+# File signing Android
+*.jks
+*.keystore
+key.properties
+
+# File hasil build aplikasi
+*.apk
+*.aab
+
+# File sistem dan editor
+.DS_Store
+Thumbs.db

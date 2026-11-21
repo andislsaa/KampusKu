@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KampusKu</string>
+    <string name="title_activity_main">KampusKu</string>
+    <string name="package_name">com.kampusku.app</string>
+    <string name="custom_url_scheme">com.kampusku.app</string>
+</resources>
